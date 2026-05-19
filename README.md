@@ -1,12 +1,86 @@
-# React + Vite
+# Bean Scene ☕️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bean Scene is a modern coffee shop landing page built with **ReactJS**, **Tailwind CSS**, and **Formik**.  
+The project includes a clean and responsive design for presenting coffee products, shop features, customer feedback, newsletter subscription, and user authentication actions.
 
-Currently, two official plugins are available:
+## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Bean Scene Preview](./src/screenshots/coffeeshop.png)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Modern coffee shop landing page
+- Responsive UI design
+- Hero section with call-to-action buttons
+- About / introduction section
+- Features section
+- Coffee menu cards
+- Promotional banner
+- Customer feedback section
+- Newsletter subscription form
+- Footer with links and contact information
+- Form handling with Formik
+- Styled with Tailwind CSS
+
+## Tech Stack
+
+- **ReactJS** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Formik** – Form management
+- **JavaScript**
+- **HTML5 / CSS3**
+
+## Installation
+
+Clone the repository:
+
+## Main Sections
+Hero Section
+
+A full-width coffee-themed hero section with navigation links, authentication buttons, and an order call-to-action.
+
+![Hero Section](./src/screenshots/coffeeshop.png)
+
+About Section
+
+Introduces Bean Scene and highlights the quality of the coffee experience.
+
+![Hero Section](./src/screenshots/about.png)
+
+Features Section
+
+Shows the reasons why Bean Scene is different, including quality, affordability, and premium beans.
+
+![Hero Section](./src/screenshots/coffeeshop.png)
+
+Menu Section
+
+Displays different coffee products such as Cappuccino, Chai Latte, Macchiato, and Espresso.
+
+![Hero Section](./src/screenshots/menu.png)
+
+Feedback Section
+
+Includes customer feedback and testimonial design.
+
+![Hero Section](./src/screenshots/Contact.png)
+
+Newsletter Section
+
+A subscription form built using Formik for managing form values and submission.
+
+![Hero Section](./src/screenshots/more.png)
+
+Formik Usage
+
+Formik is used to handle forms such as:
+
+Newsletter subscription
+Sign up form
+Contact or user input forms
+
+![Hero Section](./src/screenshots/signin.png)
+```bash
+git clone https://github.com/your-username/bean-scene.git
+
+
