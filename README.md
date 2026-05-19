@@ -1,6 +1,6 @@
 # Bean Scene ☕️
 
-Bean Scene is a modern coffee shop landing page built with **ReactJS**, **Tailwind CSS**, and **Formik**.  
+- Bean Scene is a modern coffee shop landing page built with **ReactJS**, **Tailwind CSS**, and **Formik**.  
 The project includes a clean and responsive design for presenting coffee products, shop features, customer feedback, newsletter subscription, and user authentication actions.
 
 ## Preview
@@ -32,71 +32,53 @@ The project includes a clean and responsive design for presenting coffee product
 
 ## Installation
 
-Clone the repository:
+**Clone the repository**: https://github.com/neginen/Coffeeshop
 
-Go to the project directory:
-cd bean-scene
 
-Install dependencies:
-npm install
-
-Run the project:
+**Install dependencies**:
+```bash
+npm install react
+```
+**Run the project**:
+```bash
 npm run dev
+```
+## Main Sections 
+**Hero Section**
 
-## Main Sections
-Hero Section
-
-A full-width coffee-themed hero section with navigation links, authentication buttons, and an order call-to-action.
+- A full-width coffee-themed hero section with navigation links, authentication buttons, and an order call-to-action.
 
 ![Hero Section](./src/screenshots/coffeeshop.png)
 
-About Section
-
-Introduces Bean Scene and highlights the quality of the coffee experience.
+**About Section**
+- Introduces Bean Scene and highlights the quality of the coffee experience.
 
 ![Hero Section](./src/screenshots/about.png)
 
-Features Section
-
-Shows the reasons why Bean Scene is different, including quality, affordability, and premium beans.
+**Features Section**
+- Shows the reasons why Bean Scene is different, including quality, affordability, and premium beans.
 
 ![Hero Section](./src/screenshots/Features.png)
 
-Menu Section
+**Menu Section**
+- Displays different coffee products such as Cappuccino, Chai Latte, Macchiato, and Espresso
 
-Displays different coffee products such as Cappuccino, Chai Latte, Macchiato, and Espresso.
+**Feedback Section**
+- Includes customer feedback and testimonial design.
 
+**Newsletter Section**
+- A subscription form built using Formik for managing form values and submission.
 
-
-Feedback Section
-
-Includes customer feedback and testimonial design.
-
-
-
-Newsletter Section
-
-A subscription form built using Formik for managing form values and submission.
-
-Formik Usage
-
+**Formik Usage**
 Formik is used to handle forms such as:
-
-Newsletter subscription
-Sign up form
-Contact or user input forms
+- Sign up form
+- Contact or user input forms
 
 ![Hero Section](./src/screenshots/signup.png)
 
 ## Responsive Design
-
-The layout is designed to work on different screen sizes using Tailwind CSS utility classes.
+- The layout is designed to work on different screen sizes using Tailwind CSS utility classes.
 
 - **Future Improvements**
 - **Add form validation with formik**
 - **Improve accessibility**
-
-
-```bash
-git clone https://github.com/neginen/Coffeeshop
-
