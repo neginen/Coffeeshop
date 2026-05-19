@@ -93,6 +93,5 @@ The layout is designed to work on different screen sizes using Tailwind CSS util
 
 
 ```bash
-git clone https://github.com/your-username/bean-scene.git
-
+git clone https://github.com/neginen/Coffeeshop
 
