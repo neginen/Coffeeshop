@@ -70,6 +70,7 @@ npm run dev
 - A subscription form built using Formik for managing form values and submission.
 
 **Formik Usage**
+
 Formik is used to handle forms such as:
 - Sign up form
 - Contact or user input forms
