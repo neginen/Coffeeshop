@@ -1,4 +1,4 @@
-# Bean Scene ☕️
+# Coffee shop ☕️
 
 - Bean Scene is a modern coffee shop landing page built with **ReactJS**, **Tailwind CSS**, and **Formik**.  
 The project includes a clean and responsive design for presenting coffee products, shop features, customer feedback, newsletter subscription, and user authentication actions.
