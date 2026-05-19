@@ -51,7 +51,7 @@ Features Section
 
 Shows the reasons why Bean Scene is different, including quality, affordability, and premium beans.
 
-![Hero Section](./src/screenshots/coffeeshop.png)
+![Hero Section](./src/screenshots/Features.png)
 
 Menu Section
 
@@ -79,7 +79,19 @@ Newsletter subscription
 Sign up form
 Contact or user input forms
 
+![Hero Section](./src/screenshots/signup.png)
 ![Hero Section](./src/screenshots/signin.png)
+
+
+## Responsive Design
+
+The layout is designed to work on different screen sizes using Tailwind CSS utility classes.
+
+- **Future Improvements**
+- **Add form validation with formik**
+- **Improve accessibility**
+
+
 ```bash
 git clone https://github.com/your-username/bean-scene.git
 
