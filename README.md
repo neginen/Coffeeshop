@@ -34,6 +34,15 @@ The project includes a clean and responsive design for presenting coffee product
 
 Clone the repository:
 
+Go to the project directory:
+cd bean-scene
+
+Install dependencies:
+npm install
+
+Run the project:
+npm run dev
+
 ## Main Sections
 Hero Section
 
@@ -57,19 +66,17 @@ Menu Section
 
 Displays different coffee products such as Cappuccino, Chai Latte, Macchiato, and Espresso.
 
-![Hero Section](./src/screenshots/menu.png)
+
 
 Feedback Section
 
 Includes customer feedback and testimonial design.
 
-![Hero Section](./src/screenshots/Contact.png)
+
 
 Newsletter Section
 
 A subscription form built using Formik for managing form values and submission.
-
-![Hero Section](./src/screenshots/more.png)
 
 Formik Usage
 
@@ -80,8 +87,6 @@ Sign up form
 Contact or user input forms
 
 ![Hero Section](./src/screenshots/signup.png)
-![Hero Section](./src/screenshots/signin.png)
-
 
 ## Responsive Design
 
