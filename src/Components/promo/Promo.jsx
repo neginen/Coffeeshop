@@ -22,7 +22,7 @@ const Promo = () => {
                 <p className="text-sm sm:text-md md:text-lg  text-gray-200 mb-4 sm:mb-6">
                     We are giving you a one-time opportunity to experience a better life with coffee.
                 </p>
-                <button className="w-24 bg-[#F9C06A] text-[#603809] hover:bg-[#f4b26b]  m-4   py-2 font-semibold rounded-full shadow-lg transition">
+                <button className=" animate-bounce w-24 bg-[#F9C06A] text-[#603809] hover:bg-[#f4b26b]  m-4   py-2 font-semibold rounded-full shadow-lg transition">
                     Order Now
                 </button>
             </div>

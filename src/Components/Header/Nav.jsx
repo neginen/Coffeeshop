@@ -17,9 +17,9 @@ export default function Nav() {
 
             {/* Desktop Menu */}
             <ul className="hidden md:flex  gap-6 text-sm md:text-lg ">       
-                <li className="hover:text-[#f4b26b] cursor-pointer transition"><a href="#Menu">Menu</a></li>
-                <li className="hover:text-[#f4b26b] cursor-pointer transition"><a href="#About">About Us</a></li>
-                <li className="hover:text-[#f4b26b] cursor-pointer transition"><a href="#Contact">Contact Us</a></li>
+                <li className="hover:text-[#f4b26b] hover:animate-bounce cursor-pointer transition"><a href="#Menu">Menu</a></li>
+                <li className="hover:text-[#f4b26b] hover:animate-bounce cursor-pointer transition"><a href="#About">About Us</a></li>
+                <li className="hover:text-[#f4b26b] hover:animate-bounce cursor-pointer transition"><a href="#Contact">Contact Us</a></li>
             </ul>
 
             {/* Desktop Auth Buttons */}

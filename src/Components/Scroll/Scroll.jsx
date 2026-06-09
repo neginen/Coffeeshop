@@ -27,7 +27,7 @@ export default function Scroll() {
   return (
     <button
       onClick={scrollToTop}
-      className={`fixed bottom-6 right-6 z-50 p-4 rounded-full bg-[#F9C06A] text-[#603809] shadow-lg hover:bg-[#f4b26b] transition-opacity duration-300 ${
+      className={`fixed bottom-6 animate-bounce  right-6 z-50 p-4 rounded-full bg-[#F9C06A] text-[#603809] shadow-lg hover:bg-[#f4b26b] transition-opacity duration-300 ${
         visible ? "opacity-100" : "opacity-0 pointer-events-none"
       }`}
       aria-label="بازگشت به بالا"

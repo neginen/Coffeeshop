@@ -8,7 +8,6 @@ import Newsleters from "../Newsleters/Newsleters";
 import Scroll from "../Scroll/Scroll";
 
 
-
 function Home() {
   return (
     <>     
@@ -18,7 +17,7 @@ function Home() {
       <Features />
       <Promo />
       <Testimonials />
-      <Newsleters />
+      <Newsleters />    
       <Scroll/>
 
     </>

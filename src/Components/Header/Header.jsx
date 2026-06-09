@@ -25,7 +25,7 @@ export default function Header() {
             for our customers.
           </p>
 
-          <button className="bg-[#F9C06A] text-[#603809] hover:bg-[#f4b26b] w-[134px] h-[40px] font-semibold rounded-full shadow-md transition">
+          <button className="animate-bounce bg-[#F9C06A] text-[#603809] hover:bg-[#f4b26b] w-[134px] h-[40px] font-semibold rounded-full shadow-md transition">
             Order Now
           </button>
         </div>

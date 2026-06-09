@@ -18,7 +18,7 @@ const About = () => {
                         of real coffee is greater. There is no doubt that you will enjoy this coffee more than<br />
                         others you have ever tasted.
                     </p>
-                    <button className="  w-[134px] h-[40px] font-semibold  my-6 rounded-full shadow-md  bg-[#F9C06A] text-[#603809] hover:bg-[#f4b26b] transition">
+                    <button className="animate-bounce  w-[134px] h-[40px] font-semibold  my-6 rounded-full shadow-md  bg-[#F9C06A] text-[#603809] hover:bg-[#f4b26b] transition">
                         Learn More
                     </button>
                 </div>

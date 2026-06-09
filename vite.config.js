@@ -9,5 +9,14 @@ export default defineConfig({
     react(),
     tailwindcss(),  
   ],
+    server: {
+    proxy: {
+      "/favqs": {
+        target: "https://favqs.com",
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/favqs/, ""),
+      },
+    },
+  }
 
 })

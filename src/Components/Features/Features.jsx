@@ -53,7 +53,7 @@ export default function Features() {
                 <h5 className="text-sm md:text-2xl font-semibold   text-[#603809]">
                     Get started today.
                 </h5>
-                <button className="  bg-[#F9C06A] text-[#603809] hover:bg-[#f4b26b]  m-4  px-4 py-2 font-semibold rounded-full shadow-lg transition">
+                <button className="animate-bounce  bg-[#F9C06A] text-[#603809] hover:bg-[#f4b26b]  m-4  px-4 py-2 font-semibold rounded-full shadow-lg transition">
                     Join Us
                 </button>
             </div>
